@@ -1,13 +1,13 @@
-package com.devrezaur.main;
+package com.devrezaur.organization.service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringMicrometerTracingApplication {
+public class OrganizationServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringMicrometerTracingApplication.class, args);
+		SpringApplication.run(OrganizationServiceApplication.class, args);
 	}
 
 }

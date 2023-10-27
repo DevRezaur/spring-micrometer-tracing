@@ -1,1 +1,3 @@
 rootProject.name = 'spring-micrometer-tracing'
+include 'user-service'
+include 'organization-service'

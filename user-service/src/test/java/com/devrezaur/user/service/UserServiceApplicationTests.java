@@ -1,10 +1,10 @@
-package com.devrezaur.main;
+package com.devrezaur.user.service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringMicrometerTracingApplicationTests {
+class UserServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
